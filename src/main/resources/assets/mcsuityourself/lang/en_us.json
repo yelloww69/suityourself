@@ -1,0 +1,17 @@
+{
+  "item.mcsuityourself.titanium_ingot" : "Titanium Ingot",
+  "item.mcsuityourself.raw_titanium" : "Raw Titanium",
+
+  "item.mcsuityourself.metal_detector" : "Metal Detector",
+  "item.mcsuityourself.test_gun" : "Test Gun",
+
+  "block.mcsuityourself.titanium_block": "Block of Titanium",
+  "block.mcsuityourself.raw_titanium_block": "Block of Raw Titanium",
+  "block.mcsuityourself.titanium_ore": "Titanium Ore",
+  "block.mcsuityourself.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.mcsuityourself.sound_block": "Sound Block",
+
+  "creativetab.suits_tab" : "Suits",
+  "creativetab.materials_tab" : "Materials",
+  "creativetab.blocks_tab" : "Blocks"
+}

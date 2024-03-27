@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mcsuityourself:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "mcsuityourself:titanium",
+    "count": 9
+  }
+}
